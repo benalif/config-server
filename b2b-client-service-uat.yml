@@ -1,0 +1,3 @@
+client:
+  max: 5
+  env: "UAT"
