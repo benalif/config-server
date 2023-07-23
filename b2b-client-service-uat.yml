@@ -1,3 +1,4 @@
-client:
-  max: 5
-  env: "UAT"
+spring:
+  datasource:
+    username: postgres
+    password: postgres
