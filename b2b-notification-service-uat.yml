@@ -8,3 +8,10 @@ spring:
 mail:
   smtp:
     host: smtprelay.wataniya-algerie.com
+
+sms:
+  url: http://10.30.165.16/GmService
+  version: 1.0
+  username: NedjmaWeb
+  password: Webpwd9
+  from: 5400
