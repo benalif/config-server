@@ -15,3 +15,6 @@ sms:
   username: NedjmaWeb
   password: Webpwd9
   from: 5400
+
+rmq:
+  queue: digitb2b.queue
