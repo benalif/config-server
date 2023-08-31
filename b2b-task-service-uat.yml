@@ -4,3 +4,8 @@ spring:
     port: 5672
     username: guest
     password: guest
+  datasource:
+    url: jdbc:oracle:thin:@webdbte:1521:webte01
+    username: DIGITALB2B
+    password: DIGITALB2B@2023
+    driver-class-name: oracle.jdbc.driver.OracleDriver
